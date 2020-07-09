@@ -1,0 +1,7 @@
+{
+    "server": "SERVER",
+    "port": "SERVER_PORT",  
+    "username": "USERNAME",
+    "from": "EMAIL_ADDRESS",
+    "password": "PASSWORD" 
+}
