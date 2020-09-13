@@ -4,11 +4,6 @@ from BulkEmails import *
 
 from argparse import ArgumentParser
 
-
-def test():
-    print("test")
-
-
 if __name__ == '__main__':
     #####
 
